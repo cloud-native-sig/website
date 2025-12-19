@@ -15,9 +15,9 @@ Note that pelican-alchemy is included as a submodule
 Site settings and pelican build information is defined in `pelicanconf.py` and
 `publishconf.py`. `pelicanconf.py` contains most settings and may be used to
 build locally by running `pelican content`  in the base directory of the
-repository (`pip install pelican[markdown]` required).
+repository (`pip install pelican[markdown]` first).
  `publishconf.py` imports `pelicanconf.py` and sets additional
-settings appropriate for publishing. In particular a target `SITEURL` which
+settings appropriate for publishing. In particular a target `SITEURL`
 should be updated when setting or changing the custom domain for GitHub Pages.
 
 The workflow `.github/workflows/pelican.yml` calls `publishconf.py` to
@@ -61,7 +61,9 @@ optional but serve a similar function as Category (see
 `{website-url}/category/tags.html`).
 
 Images can be placed in `content/images` and included with
+```
 ![Alt-text]({static}/images/<image-file>)
+```
 
 
 
