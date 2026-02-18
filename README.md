@@ -2,7 +2,7 @@
 Repository for content and deployment of cloud-native-sig website via GitHub
 pages.
 
-[http://cloud-native-sig.github.io/website/](http://cloud-native-sig.github.io/website/)
+[https://cloudnative-sig.ac.uk](https://cloudnative-sig.ac.uk/)
 
 ## Build details
 
