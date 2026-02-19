@@ -23,7 +23,7 @@ We already have exciting plans for our next workshop at
 [Durham HPC Days](https://hpc-days.github.io/Durham-HPC-Days-2026/programme-2026/pocket-sized-tuesday-09-00/) in June!
 
 <div style="display: flex; justify-content: center; gap: 1em; margin-top: 2em;">
-  <img src="{static}/images/stfcfeb26.jpg" alt="Cloud Native SIG STFC Workshop at the Rutherford Appleton Laboratory (RAL)">
+  <img src="{static}/images/stfcfeb26.jpg" alt="Cloud Native SIG STFC Workshop at the Rutherford Appleton Laboratory (RAL)" style="width: 100%;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 1em; margin-top: 2em;">
