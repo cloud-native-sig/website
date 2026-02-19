@@ -22,7 +22,9 @@ from the Cloud Native SIG and the [CAKE fellowship](https://www.cake.ac.uk/ke-fe
 We already have exciting plans for our next workshop at 
 [Durham HPC Days](https://hpc-days.github.io/Durham-HPC-Days-2026/programme-2026/pocket-sized-tuesday-09-00/) in June!
 
-![Cloud Native SIG STFC Workshop at the Rutherford Appleton Laboratory (RAL)]({static}/images/stfcfeb26.jpg)
+<div style="display: flex; justify-content: center; gap: 1em; margin-top: 2em;">
+  <img src="{static}/images/stfcfeb26.jpg alt="Cloud Native SIG STFC Workshop at the Rutherford Appleton Laboratory (RAL)">
+</div>
 
 <div style="display: flex; justify-content: center; gap: 1em; margin-top: 2em;">
   <img src="{static}/images/cloud-native-sig-logo.png" alt="Cloud Native SIG logo" style="width: 250px;">
