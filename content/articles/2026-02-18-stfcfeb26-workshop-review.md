@@ -13,7 +13,8 @@ including contributions from workshop attendees. We had a full room and even
 more joining online&mdash;thank you all for interesting questions, comments and
 suggestions. We are also grateful to STFC Scientific Computing for hosting us,
 and in particular Pam Slingsby for pulling everything together and producing
-some rather exceptional promotional material.
+some rather exceptional promotional material, and Viktor Bozhinov for offering
+to help online participants.
 
 If you were unable to attend or perhaps had follow-up questions, feel free to
 get in touch with Lewis or Piper. Otherwise, stay tuned for exciting plans for
