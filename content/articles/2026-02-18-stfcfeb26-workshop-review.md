@@ -17,8 +17,10 @@ some rather exceptional promotional material, and Viktor Bozhinov for offering
 to help online participants.
 
 If you were unable to attend or perhaps had follow-up questions, feel free to
-get in touch with Lewis or Piper. Otherwise, stay tuned for exciting plans for
-our next workshop at Durham HPC Days in June!
+get in touch with Lewis or Piper. Also don't forget to stay tuned for updates 
+from the Cloud Native SIG and the [CAKE fellowship](https://www.cake.ac.uk/ke-fellowships/cohort1). 
+We already have exciting plans for our next workshop at 
+[Durham HPC Days](https://hpc-days.github.io/Durham-HPC-Days-2026/programme-2026/pocket-sized-tuesday-09-00/) in June!
 
 ![Cloud Native SIG STFC Workshop at the Rutherford Appleton Laboratory (RAL)]({static}/images/stfcfeb26.jpg)
 
