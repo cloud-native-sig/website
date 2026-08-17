@@ -40,7 +40,7 @@ LINKS = (
 # Social icons in header
 ICONS = (
     ('github', 'https://github.com/cloud-native-sig'),
-    ('fas fa-envelope', '/pages/us.html'), # Temporarily set to contact us page
+    ('fas fa-envelope', '/pages/contact-us.html'), # Temporarily set to contact us page
 )
 # Links in footer
 FOOTER_LINKS = (
