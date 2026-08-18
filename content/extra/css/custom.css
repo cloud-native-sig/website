@@ -4,3 +4,9 @@ article img {
     margin-left: auto;
     margin-right: auto;
 }
+/* Fix invisible text selection: ::selection 
+ * --primary/--secondary CSS variables are never defined in pelican-alchemy ? */
+::selection {
+    background: #0085a1;
+    color: #fff;
+}
