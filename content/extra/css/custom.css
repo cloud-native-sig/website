@@ -7,6 +7,6 @@ article img {
 /* Fix invisible text selection: ::selection 
  * --primary/--secondary CSS variables are never defined in pelican-alchemy ? */
 ::selection {
-    background: #0085a1;
-    color: #fff;
+    background: rgba(24, 95, 165, 0.25);
+    color: inherit;
 }
